@@ -1,0 +1,6 @@
+{
+  "commands.chattranslate.translate.help": "§6[ChatTranslate]§f 用法:\n\n §6/translator translator <translator>\n  §7设置翻译平台(仅Bing可用)\n\n §6/translator langFrom <from>\n  §7设置源语言\n §6/translator langTo <to>\n  §7设置目标语言\n\n §6/translator start\n  §7开启翻译\n §6/translator stop\n  §7暂停翻译",
+  "commands.chattranslate.translate.switch.on": "§6[ChatTranslate]§f 翻译已开启",
+  "commands.chattranslate.translate.switch.off": "§6[ChatTranslate]§f 翻译已暂停",
+  "commands.chattranslate.translate.set.successful": "§6[ChatTranslate]§f 设置成功，已设置为%s"
+}

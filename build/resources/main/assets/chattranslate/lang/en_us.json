@@ -1,0 +1,6 @@
+{
+  "commands.chattranslate.translate.help": "§6[ChatTranslate]§f usage:\n\n §6/translator translator <translator>\n  §7Set translator(Only Bing working.)\n\n §6/translator langFrom <from>\n  §7Set from language.\n §6/translator langTo <to>\n  §7Set to language.\n\n §6/translator start\n  §7Start translator.\n §6/translator stop\n  §7Stop translator.",
+  "commands.chattranslate.translate.switch.on": "§6[ChatTranslate]§f Translator started.",
+  "commands.chattranslate.translate.switch.off": "§6[ChatTranslate]§f Translator stopped.",
+  "commands.chattranslate.translate.set.successful": "§6[ChatTranslate]§f Set successfully, now is %s."
+}
